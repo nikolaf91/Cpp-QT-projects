@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/metro_ui">
+        <file>assets/bg_blue.jpg</file>
+        <file>assets/vienna_streets.txt</file>
+        <file>assets/metro_icon.png</file>
+        <file>assets/metro.png</file>
+        <file>assets/transport_icon.ico</file>
+    </qresource>
+</RCC>
